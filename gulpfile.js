@@ -76,10 +76,10 @@ const hbsHelpers = {
 };
 
 const hbsVars = {
-	imageUrl: '/sandandsky-styleguides/images',
-	jsUrl: '/sandandsky-styleguides/js',
-	cssUrl: '/sandandsky-styleguides/css',
-	criticalUrl: '/sandandsky-styleguides/critical-css',
+	imageUrl: './images',
+	jsUrl: './js',
+	cssUrl: './css',
+	criticalUrl: './critical-css',
 };
 
 const indexFile = function () {

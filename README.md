@@ -8,7 +8,7 @@ Development of a new CORE, COMPONENTS, COMPOUND, SECTIONS and TEMPLATE must alwa
 
 Once the HTML and SCSS is fine a works well, code is integrate in Shopify repo with liquid.
 
-URL for viewing HTML in browser: https://supernovabrands.github.io/sandandsky-styleguides/
+URL for viewing HTML in browser: https://ss-styleguide.pages.dev/
 
 ## Setup
 1. Run `npm install` to install dependencies
