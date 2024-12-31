@@ -76,10 +76,10 @@ const hbsHelpers = {
 };
 
 const hbsVars = {
-	imageUrl: './images',
-	jsUrl: './js',
-	cssUrl: './css',
-	criticalUrl: './critical-css',
+	imageUrl: '/images',
+	jsUrl: '/js',
+	cssUrl: '/css',
+	criticalUrl: '/critical-css',
 };
 
 const indexFile = function () {
